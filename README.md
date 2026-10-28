@@ -90,4 +90,4 @@ Lee [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## ¿Te ha servido?
 
-Si alguna de estas herramientas te ha quitado un recado de encima, dale una estrella al repo. Así llega a más gente que pueda aprovecharlo, y a más autores que se animen a publicar la suya.
+Si alguna de estas herramientas te ha quitado un recado de encima, dale amor con una estrella: a este repo y a las que uses en tu día a día. Así llegan a más gente que pueda aprovecharlas, y más autores se animan a publicar la suya.
