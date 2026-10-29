@@ -29,7 +29,7 @@ El objetivo es que tu agente tenga a mano un catálogo de herramientas que pueda
 
 | Proyecto | Autor | Estrellas | Licencia | Qué hace | Tipo |
 |---|---|---|---|---|---|
-| [**mercadona-mcp**](https://github.com/kidandcat/mercadona-mcp) | <img src="https://github.com/kidandcat.png?size=40" width="20" height="20" alt=""> [@kidandcat](https://github.com/kidandcat) | ![Estrellas](https://img.shields.io/github/stars/kidandcat/mercadona-mcp?style=flat-square&label=%E2%AD%90&color=f5c518) | ![Licencia](https://img.shields.io/badge/MIT-blue?style=flat-square) | Busca productos y gestiona el carrito de Mercadona. | `MCP` |
+| [**mercadona-cli**](https://github.com/ivorpad/mercadona-cli) | <img src="https://github.com/ivorpad.png?size=40" width="20" height="20" alt=""> [@ivorpad](https://github.com/ivorpad) | ![Estrellas](https://img.shields.io/github/stars/ivorpad/mercadona-cli?style=flat-square&label=%E2%AD%90&color=f5c518) | ![Licencia](https://img.shields.io/badge/Sin%20licencia-lightgrey?style=flat-square) | Busca productos, lee precios, arma el carrito y prepara la compra en Mercadona desde la terminal. | `CLI` |
 | [**glovo-cli**](https://github.com/jgalea/glovo-cli) | <img src="https://github.com/jgalea.png?size=40" width="20" height="20" alt=""> [@jgalea](https://github.com/jgalea) | ![Estrellas](https://img.shields.io/github/stars/jgalea/glovo-cli?style=flat-square&label=%E2%AD%90&color=f5c518) | ![Licencia](https://img.shields.io/badge/MIT-blue?style=flat-square) | Busca restaurantes, lee menús y llena la cesta en Glovo. | `CLI` |
 
 ## Telefonía
@@ -49,6 +49,7 @@ El objetivo es que tu agente tenga a mano un catálogo de herramientas que pueda
 | Proyecto | Autor | Estrellas | Licencia | Qué hace | Tipo |
 |---|---|---|---|---|---|
 | [**booksy-cli**](https://github.com/GodGMN/booksy-cli) | <img src="https://github.com/GodGMN.png?size=40" width="20" height="20" alt=""> [@GodGMN](https://github.com/GodGMN) | ![Estrellas](https://img.shields.io/github/stars/GodGMN/booksy-cli?style=flat-square&label=%E2%AD%90&color=f5c518) | ![Licencia](https://img.shields.io/badge/MIT-blue?style=flat-square) | Busca huecos en Booksy según tu horario, avisa si se libera uno antes y reserva. | `CLI` |
+| [**padel-cli**](https://github.com/joshp123/padel-cli) | <img src="https://github.com/joshp123.png?size=40" width="20" height="20" alt=""> [@joshp123](https://github.com/joshp123) | ![Estrellas](https://img.shields.io/github/stars/joshp123/padel-cli?style=flat-square&label=%E2%AD%90&color=f5c518) | ![Licencia](https://img.shields.io/badge/Sin%20licencia-lightgrey?style=flat-square) | Consulta la disponibilidad de pistas de pádel en Playtomic y las reserva. | `CLI` |
 
 ## Transporte
 
